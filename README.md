@@ -35,6 +35,13 @@
 
 ---
 
+### 🍽️ Outside of Work  
+When I’m not coding, you’ll find me in the kitchen cooking South Indian and Mexican dishes or playing sports. I love trying new flavors and creating fusion recipes. 🌮🔥  
+
+Let’s connect and explore how we can make an impact together! 🌟  
+
+---
+
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaypenmatsa)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/akshau722)  
