@@ -24,6 +24,9 @@
 ---
 
 ### 🔥 Featured Projects
+🤖 **[Wattwize](#)** *(React, LangChain, FastAPI, MySQL, FAISS, AWS, Docker)*  
+- Built a tool for businesses to track and reduce their **CO2 emmisions**
+  
 🚀 **[Enterprise Cloud Deployment Framework](#)** *(AWS, Terraform, Python)*  
 - Automated cloud infrastructure deployment, reducing setup time **from 2 weeks to 2 days**  
 
